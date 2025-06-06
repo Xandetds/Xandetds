@@ -25,7 +25,6 @@ Confira alguns dos meus trabalhos e projetos recentes que demonstram minhas habi
     * Modelagem e implementação de um banco de dados relacional robusto em **PostgreSQL** para um sistema de streaming, focado na gestão eficiente de usuários, conteúdo e assinaturas.
 * **[HTML Cheatsheet](https://github.com/Xandetds/htmlcheatsheet)**
     * Este foi um dos meus **primeiros projetos** em desenvolvimento web, criado para aprender e praticar os fundamentos de **HTML e CSS**. Ele mostra meus **primeiros passos** na programação e o quanto minhas habilidades evoluíram desde então.
-    * **[Veja o Cheatsheet Online!](https://xandetds.github.io/htmlcheatsheet/)** (Lembre-se de **configurar o GitHub Pages** para este link funcionar!)
 
 ---
 

@@ -1,13 +1,20 @@
 # Olá! Eu sou o Alexandre Tibes 👋
 
+---
+
 ### Sobre Mim:
+
 * 🎓 Sou um estudante apaixonado por tecnologia e programação, atualmente cursando Engenharia de Software.
 * 💡 Amo programar no geral e estou sempre em busca de novos desafios para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
 * 🌱 Meu principal objetivo é aprender cada vez mais, tanto na faculdade quanto fora dela, e conseguir uma oportunidade de emprego na área de software para aplicar e expandir minhas capacidades.
 
+---
+
 ### Conhecimentos:
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,postgres,react,github,ml)](https://skillicons.dev)
+
+---
 
 ### Conecte-se Comigo:
 

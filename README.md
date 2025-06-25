@@ -19,8 +19,6 @@
 
 Confira alguns dos meus trabalhos e projetos recentes que demonstram minhas habilidades:
 
-* **[Plataforma de Streaming de Livros Digitais (Front-end)](https://github.com/Xandetds/Projeto-Front-end)**
-    * Um projeto completo em **React.js** simulando uma plataforma de livros digitais, com telas de login, funcionalidades CRUD para livros e usuários, e consumo de API RESTful.
 * **[Sistema de Streaming (Banco de Dados)](https://github.com/Xandetds/Projeto-BD)**
     * Modelagem e implementação de um banco de dados relacional robusto em **PostgreSQL** para um sistema de streaming, focado na gestão eficiente de usuários, conteúdo e assinaturas.
 * **[HTML Cheatsheet](https://github.com/Xandetds/htmlcheatsheet)**

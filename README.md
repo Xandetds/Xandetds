@@ -21,8 +21,8 @@ Confira alguns dos meus trabalhos e projetos recentes que demonstram minhas habi
 
 * **[Sistema de Streaming (Banco de Dados)](https://github.com/Xandetds/Projeto-BD)**
     * Modelagem e implementação de um banco de dados relacional robusto em **PostgreSQL** para um sistema de streaming, focado na gestão eficiente de usuários, conteúdo e assinaturas.
-* **[HTML Cheatsheet](https://github.com/Xandetds/htmlcheatsheet)**
-    * Este foi um dos meus **primeiros projetos** em desenvolvimento web, criado para aprender e praticar os fundamentos de **HTML e CSS**. Ele mostra meus **primeiros passos** na programação e o quanto minhas habilidades evoluíram desde então.
+* **[Repositório de Estudos e Prática (estudos-dev)](https://github.com/Xandetds/estudos-dev)**
+    * Este é o meu espaço dedicado à **prática e ao aprimoramento contínuo** em lógica de programação e fundamentos de diversas linguagens como **Python** e **JavaScript**. Ele demonstra minha **consistência nos estudos e a evolução** das minhas habilidades em resolver desafios de código.
 
 ---
 

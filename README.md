@@ -9,7 +9,7 @@
 
 ### Conhecimentos:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,postgres,react,github,ml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,postgres,react,github,ml)](https://skillicons.dev)
 
 *As habilidades acima destacam minhas principais áreas de conhecimento, mas estou sempre aprendendo e explorando novas tecnologias!*
 

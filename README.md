@@ -1,14 +1,29 @@
 # 👋 Olá! Eu sou o Alexandre Tibes
 
-### 🎯 Estudante de Engenharia de Software | JavaScript | React | Python | Java (em formação) | Postgres SQL | Inglês Avançado | Buscando Oportunidades na Área de Software
+### 🎯 Estudante de Engenharia de Software  
+**JavaScript | React | Python | Java (estudando) | PostgreSQL | Inglês Avançado**  
+🧑‍💻 Buscando minha primeira oportunidade na área de Software
 
 ---
 
 ## 💻 Sobre Mim
 
-Sou um estudante apaixonado por tecnologia, atualmente cursando **Engenharia de Software**. Tenho grande interesse por **desenvolvimento**, e estou sempre em busca de novos desafios que me ajudem a crescer como desenvolvedor.
+Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e por resolver problemas com código.
 
-Atualmente estou aprimorando meus conhecimentos com um **[curso completo de Java com projetos práticos](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)** e sigo praticando com projetos próprios, tanto em **back-end quanto em front-end**, sempre com foco em escrever código limpo e bem estruturado.
+Atualmente focado em me desenvolver tanto no **back-end** quanto no **front-end**, sempre buscando escrever código limpo, aprender boas práticas e construir projetos reais.
+
+No momento, estou fazendo um [curso completo de Java na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/) e desenvolvendo projetos próprios pra reforçar o que aprendo.
+
+---
+
+## 📚 Habilidades
+
+- **Linguagens:** JavaScript, Python, Java 
+- **Front-end:** HTML, CSS, React
+- **Back-end:** Python, Java 
+- **Banco de Dados:** PostgreSQL
+- **Ferramentas:** Git, GitHub, VS Code
+- **Idiomas:** Inglês avançado
 
 ---
 
@@ -18,7 +33,13 @@ Atualmente estou aprimorando meus conhecimentos com um **[curso completo de Java
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,react,postgres,github)](https://skillicons.dev)
 
-<br/>
+</div>
+
+---
+
+## 📈 Meus Stats no GitHub
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
@@ -35,52 +56,52 @@ Atualmente estou aprimorando meus conhecimentos com um **[curso completo de Java
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
-###  [Sistema de Streaming - Projeto de Banco de Dados](https://github.com/Xandetds/Projeto-BD)
+### [Sistema de Streaming - Projeto de Banco de Dados](https://github.com/Xandetds/Projeto-BD)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-Projeto que simula a estrutura de um sistema de banco de dados, com foco na modelagem e aplicação prática utilizando **PostgreSQL**. A aplicação foi conectada por um back-end simples feito com **Flask**, com front-end básico em **HTML e CSS**. Recursos implementados:
+Simula a estrutura de um sistema de banco de dados, com foco em **modelagem e aplicação prática com PostgreSQL**. Back-end com **Flask** e front básico com **HTML e CSS**.
 
+**Recursos implementados:**
 - Criação de tabelas e inserção de dados
-- Views, Triggers, Índices e outras estruturas de banco
-- Integração entre o banco de dados e o back-end com Flask
+- Views, Triggers, Índices e outras estruturas
+- Integração com Flask
 
 ---
 
-###  [Repositório de Estudos e Prática - estudos-dev](https://github.com/Xandetds/estudos-dev)
+### [Repositório de Estudos e Prática - estudos-dev](https://github.com/Xandetds/estudos-dev)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Repositório dedicado ao meu aprendizado contínuo como dev. Aqui você encontra:
+Repositório focado em aprendizado contínuo. Contém:
 
 - Desafios resolvidos em Python e JavaScript
-- Anotações e resumos de conceitos importantes
-- Estruturação de lógica e resolução de problemas
+- Anotações e resumos de conteúdos importantes
+- Lógica de programação e resolução de problemas
 
 ---
 
-###  [Curso de Java - Java Completo com Projetos Práticos (em andamento)](https://github.com/Xandetds/java-completo-udemy)
+### [Curso de Java - Java Completo com Projetos Práticos (em andamento)](https://github.com/Xandetds/java-completo-udemy)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 
-Repositório onde desenvolvo os projetos do curso. Conteúdo do curso inclui:
+Repositório com os projetos desenvolvidos no curso. Inclui:
 
-- Programar em Java do zero com explicações passo a passo
-- Criar aplicações desktop com botões e formulários (JavaFX)
-- Usar recursos modernos da linguagem de forma simples
-- Conectar aplicações Java a bancos de dados com JDBC
-- Desenvolver APIs com Spring Boot
-- Trabalhar com JSON, Postman, Maven, Hibernate, JPA e mais
-- Projetos e Exercícios dos fundamentos ao avançado
+- Fundamentos de Java (tipos, loops, POO)
+- JavaFX: aplicações desktop com GUI
+- JDBC: integração com bancos de dados
+- APIs com Spring Boot
+- Uso de Maven, JSON, Postman, Hibernate, JPA
+- Projetos e exercícios dos fundamentos ao avançado
 
 ---
 
-## 📫 Conecte-se Comigo
+## 📬 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tibes-2a79692b5/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandretibes_)

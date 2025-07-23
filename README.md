@@ -41,8 +41,8 @@ No momento, estou fazendo um [curso completo de Java na Udemy](https://www.udemy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs&cache2" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&cache2" alt="Top Langs" height="180"/>
 
 </div>
 

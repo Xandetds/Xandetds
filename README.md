@@ -10,24 +10,22 @@
 
 Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e por resolver problemas com código.
 
-Atualmente focado em me desenvolver tanto no **back-end** quanto no **front-end**, sempre buscando escrever código limpo, aprender boas práticas e construir projetos reais.
-
-No momento, estou fazendo um [curso completo de Java na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/) e desenvolvendo projetos próprios pra reforçar o que aprendo.
+Atualmente estudando **Java** com um curso completo e prático. Depois disso, pretendo explorar **novas tecnologias para back-end e infraestrutura**, como ambientes em nuvem.
 
 ---
 
 ## 📚 Habilidades
 
-- **Linguagens:** JavaScript, Python, Java 
-- **Front-end:** HTML, CSS, React
-- **Back-end:** Python, Java 
-- **Banco de Dados:** PostgreSQL
-- **Ferramentas:** Git, GitHub, VS Code
+- **Linguagens:** JavaScript, Python, Java  
+- **Front-end:** HTML, CSS, JavaScript, React  
+- **Back-end:** Python, Java  
+- **Banco de Dados:** PostgreSQL  
+- **Ferramentas:** Git, GitHub, VS Code  
 - **Idiomas:** Inglês avançado
 
 ---
 
-## Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -41,8 +39,8 @@ No momento, estou fazendo um [curso completo de Java na Udemy](https://www.udemy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs&cache2" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&cache2" alt="Top Langs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs&cache_seconds=3600" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Langs" height="180"/>
 
 </div>
 

@@ -57,6 +57,10 @@ Atualmente estudando **Java** com um curso completo e prático. Depois disso, pr
 - Curso de **Java com projetos práticos**
   🎓 [Ver curso na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)
   📂 [Ver repositório do curso](https://github.com/Xandetds/java-completo-udemy)
+- Curso **Imersão de Dados com Python**
+  🎓 [Ver curso na Alura](https://cursos.alura.com.br/imersao/imersao-dados-python)
+  📂 [Ver repositório do curso](https://github.com/Xandetds/dados-python-alura)
+
 
 ---
 

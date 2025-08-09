@@ -63,27 +63,16 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
 
 ---
 
-## Atualmente Estudando
+## 📘 Atualmente Estudando
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### Curso de **Java com projetos práticos**
+- 🎓 [Ver curso na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)
+-  📂 [Ver repositório do curso](https://github.com/Xandetds/java-completo-udemy)  
 
-<b>Curso de Java com projetos práticos</b><br>
-🎓 <a href="https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/">Ver curso na Udemy</a><br>
-📂 <a href="https://github.com/Xandetds/java-completo-udemy">Ver repositório do curso</a>
+### Livro **Introduction to Machine Learning with Python**
+- 📖 [Ver livro online](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+-  📂 [Ver repositório do livro](https://github.com/Xandetds/machine-learning-introduction)
 
-    </td>
-    <td width="50%" valign="top">
-
-<b>Livro: Introduction to Machine Learning with Python</b><br>
-📚 Lendo em inglês para estudar ML e treinar inglês técnico; anotações e prática em repositório próprio (em inglês).<br>
-📂 <a href="https://github.com/Xandetds/machine-learning-introduction">Repositório</a> ·
-🔗 <a href="https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/">O’Reilly</a>
-
-    </td>
-  </tr>
-</table>
 
 ---
 

@@ -78,6 +78,29 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
 
 ## Projetos em Destaque
 
+### [Introdução ao Machine Learning com Python (em andamento)](https://github.com/Xandetds/machine-learning-introduction)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+</p>
+
+Repositório com estudos práticos do livro *Introduction to Machine Learning with Python*, com o repositório e a leitura sendo totalmente em inglês para treino técnico. Inclui anotações e implementações usando **NumPy**, **Pandas**, **Matplotlib**, **SciPy**, **scikit-learn** e **mglearn**, com foco em criar e avaliar modelos de ML.
+
+---
+
+### [Curso de Java - Java Completo com Projetos Práticos (em andamento)](https://github.com/Xandetds/java-completo-udemy)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</p>
+
+Curso aprofundado de Java, com projetos cobrindo desde fundamentos e POO até desenvolvimento avançado. Inclui **JavaFX** para GUIs, **JDBC** para integração com bancos, **APIs com Spring Boot**, **Hibernate/JPA**, uso de **Maven**, **JSON**, **Postman** e muito mais, com aplicações práticas e foco em boas práticas.
+
+---
+
 ### [Sistema de Streaming - Projeto de Banco de Dados](https://github.com/Xandetds/Projeto-BD)
 
 <p align="center">
@@ -86,12 +109,7 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
-Simula a estrutura de um sistema de banco de dados, com foco em **modelagem e aplicação prática com PostgreSQL**. Back-end com **Flask** e front básico com **HTML e CSS**.
-
-**Recursos implementados:**
-- Criação de tabelas e inserção de dados
-- Views, Triggers, Índices e outras estruturas
-- Integração com Flask
+Simulação de sistema de banco de dados com foco em **modelagem e aplicação prática** usando **PostgreSQL**. Back-end com **Flask** e front básico em **HTML/CSS**, incluindo criação de tabelas, inserção de dados, views, triggers e índices.
 
 ---
 
@@ -103,27 +121,8 @@ Simula a estrutura de um sistema de banco de dados, com foco em **modelagem e ap
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-Repositório focado em aprendizado contínuo. Contém:
-- Desafios resolvidos em Python e JavaScript
-- Anotações e resumos de conteúdos importantes
-- Lógica de programação e resolução de problemas
-- Exercícios e exemplos em Java (além do curso)
+Repositório voltado para aprendizado contínuo, com desafios em Python, JavaScript e Java, lógica de programação, anotações e exercícios de cursos.
 
----
-
-### [Curso de Java - Java Completo com Projetos Práticos (em andamento)](https://github.com/Xandetds/java-completo-udemy)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</p>
-
-Repositório com os projetos desenvolvidos no curso. Inclui:
-- Fundamentos de Java (tipos, loops, POO)
-- JavaFX: aplicações desktop com GUI
-- JDBC: integração com bancos de dados
-- APIs com Spring Boot
-- Uso de Maven, JSON, Postman, Hibernate, JPA
-- Projetos e exercícios dos fundamentos ao avançado
 
 ---
 

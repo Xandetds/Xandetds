@@ -58,7 +58,7 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs&" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Langs" height="180"/>
 </div>
 
 ---

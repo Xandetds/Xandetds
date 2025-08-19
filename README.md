@@ -78,7 +78,7 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
 
 ## Projetos em Destaque
 
-### [Introdução ao Machine Learning com Python (em andamento)](https://github.com/Xandetds/machine-learning-introduction)
+### [Introdução ao Machine Learning com Python](https://github.com/Xandetds/machine-learning-introduction)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -87,17 +87,30 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
 
-Repositório com estudos práticos do livro *Introduction to Machine Learning with Python*, com o repositório e a leitura sendo totalmente em inglês para treino técnico. Inclui anotações e implementações usando **NumPy**, **Pandas**, **Matplotlib**, **SciPy**, **scikit-learn** e **mglearn**, com foco em criar e avaliar modelos de ML.
+Estudos práticos do livro *Introduction to Machine Learning with Python*, com repositório e leitura em inglês para treino técnico. Implementações usando **NumPy**, **Pandas**, **Matplotlib**, **SciPy**, **scikit-learn** e **mglearn**, com foco em criar e avaliar modelos de ML.
 
 ---
 
-### [Curso de Java - Java Completo com Projetos Práticos (em andamento)](https://github.com/Xandetds/java-completo-udemy)
+### [Curso de Java - Java Completo com Projetos Práticos](https://github.com/Xandetds/java-completo-udemy)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-Curso aprofundado de Java, com projetos cobrindo desde fundamentos e POO até desenvolvimento avançado. Inclui **JavaFX** para GUIs, **JDBC** para integração com bancos, **APIs com Spring Boot**, **Hibernate/JPA**, uso de **Maven**, **JSON**, **Postman** e muito mais, com aplicações práticas e foco em boas práticas.
+Curso aprofundado de Java, com projetos cobrindo desde fundamentos e POO até desenvolvimento avançado. Inclui **JavaFX** para GUIs, **JDBC** para integração com bancos, **APIs com Spring Boot**, **Hibernate/JPA**, uso de **Maven**, **JSON**, **Postman** e muito mais.
+
+---
+
+### [Imersão Dados com Python - Alura](https://github.com/Xandetds/imersao-dados-alura)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Plotly-23395B?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</p>
+
+Projeto final da Imersão Alura, com criação de um **dashboard interativo** no Streamlit utilizando dados reais. Foco em exploração de dados, visualizações e storytelling com gráficos.
 
 ---
 
@@ -109,7 +122,7 @@ Curso aprofundado de Java, com projetos cobrindo desde fundamentos e POO até de
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
-Simulação de sistema de banco de dados com foco em **modelagem e aplicação prática** usando **PostgreSQL**. Back-end com **Flask** e front básico em **HTML/CSS**, incluindo criação de tabelas, inserção de dados, views, triggers e índices.
+Simulação de sistema de banco de dados com foco em **modelagem e aplicação prática** usando **PostgreSQL**. Back-end com **Flask** e front básico em **HTML/CSS**, incluindo tabelas, triggers e índices.
 
 ---
 
@@ -121,7 +134,7 @@ Simulação de sistema de banco de dados com foco em **modelagem e aplicação p
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-Repositório voltado para aprendizado contínuo, com desafios em Python, JavaScript e Java, lógica de programação, anotações e exercícios de cursos.
+Repositório voltado para aprendizado contínuo, com desafios em **Python, JavaScript e Java**, lógica de programação, anotações e exercícios de cursos.
 
 
 ---

@@ -101,7 +101,7 @@ Curso aprofundado de Java, com projetos cobrindo desde fundamentos e POO até de
 
 ---
 
-### [Imersão Dados com Python - Alura](https://github.com/Xandetds/imersao-dados-alura)
+### [Imersão Dados com Python - Alura](https://github.com/Xandetds/dados-python-alura)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">

@@ -5,7 +5,7 @@
 </div>
 
 <h3>🎯 Estudante de Engenharia de Software</h3>
-<h3>JavaScript | React | Python | Java (estudando) | PostgreSQL | Inglês Avançado</h3>
+<h3>Angular/TypeScript | Java | JavaScript | Python | PostgreSQL | Inglês Avançado</h3>
 <h3>💻​ Buscando minha primeira oportunidade na área de Software</h3>
 
 ---
@@ -13,19 +13,20 @@
 ## 👾​ Sobre Mim
 
 Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e por resolver problemas com código.  
-No momento, estudo **Java** (curso prático com projetos) e **Machine Learning** lendo o livro *Introduction to Machine Learning with Python* em inglês, para treino do inglês técnico.  
-Estou fazendo anotações e prática em um repositório próprio, também em inglês, usando **NumPy**, **Pandas**, **Matplotlib**, **SciPy**, **scikit-learn**, **mglearn** e **Jupyter**.
+Hoje foco em **bases de Algoritmos**, **Backend com Java/Spring** e **Front com Angular/TypeScript** no repositório **estudos-dev**.  
+Em **Machine Learning**, meu repositório evoluiu de leitura do livro para um **lab geral em inglês** (experimentos e implementações *from-scratch*).  
+Faço isso para **praticar inglês técnico** e ir além do uso de biblioteca.
 
 ---
 
 ## 📚 Habilidades
 
-- **Linguagens:** JavaScript, Python, Java  
-- **Front-end:** HTML, CSS, JavaScript, React  
-- **Back-end:** Python, Java  
+- **Linguagens:** Java, TypeScript, JavaScript, Python  
+- **Front-end:** Angular, React, HTML/CSS  
+- **Back-end:** Java (Spring Boot)  
 - **Banco de Dados:** PostgreSQL  
-- **Bibliotecas de Dados e ML:** Pandas, NumPy, Matplotlib, Plotly, SciPy, scikit-learn, mglearn  
-- **Ferramentas:** Git, GitHub, VS Code, Jupyter  
+- **Dados & ML:** Pandas, NumPy, Matplotlib, Plotly, SciPy, scikit-learn, mglearn  
+- **Ferramentas:** Git, GitHub, VS Code, IntelliJ IDEA, Jupyter  
 - **Idiomas:** Inglês avançado
 
 ---
@@ -34,14 +35,12 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
 
 <div align="center">
 
-<!-- ícones principais -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,postgres,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,js,ts,angular,react,postgres,github" alt="Skills" />
 </a>
 
 <br/><br/>
 
-<!-- badges de dados e ML (estilo for-the-badge) -->
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
@@ -65,76 +64,64 @@ Estou fazendo anotações e prática em um repositório próprio, também em ing
 
 ## 📘 Atualmente Estudando
 
-### Curso de **Java com projetos práticos**
-- 🎓 [Ver curso na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)
--  📂 [Ver repositório do curso](https://github.com/Xandetds/java-completo-udemy)  
+### **estudos-dev** 
+- 📂 [Ver repositório](https://github.com/Xandetds/estudos-dev)  
+- Prática contínua em **Algoritmos**, **Backend (Java/Spring)** e **Front (Angular/TypeScript)**, com pastas organizadas por trilha.
 
-### Livro **Introduction to Machine Learning with Python**
-- 📖 [Ver livro online](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
--  📂 [Ver repositório do livro](https://github.com/Xandetds/machine-learning-introduction)
+### **Machine Learning - (EN)**
+- 📂 [Ver repositório](https://github.com/Xandetds/machine-learning-introduction)  
+- Começou como leitura do livro **Introduction to Machine Learning with Python** e passou a ser um **lab geral**.  
 
+### **Curso de Java – Java Completo com Projetos Práticos** *(pausado momentaneamente)*
+- 🎓 [Ver curso na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)  
+- 📂 [Repositório do curso](https://github.com/Xandetds/java-completo-udemy)  
+- Pausado durante o semestre para priorizar as trilhas do **estudos-dev** e os estudos da faculdade. **Retomo nas férias** para fechar módulos pendentes.
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### [Introdução ao Machine Learning com Python](https://github.com/Xandetds/machine-learning-introduction)
+### [estudos-dev](https://github.com/Xandetds/estudos-dev)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+Repositório de prática diária: **Algoritmos**, **Backend Java/Spring** e **Angular/TypeScript**. Estrutura simples, focada em evolução constante.
 
+---
+
+### [Machine Learning — Notes, Labs & From-Scratch (EN)](https://github.com/Xandetds/machine-learning-introduction)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
-
-Estudos práticos do livro *Introduction to Machine Learning with Python*, com repositório e leitura em inglês para treino técnico. Implementações usando **NumPy**, **Pandas**, **Matplotlib**, **SciPy**, **scikit-learn** e **mglearn**, com foco em criar e avaliar modelos de ML.
-
----
-
-### [Curso de Java - Java Completo com Projetos Práticos](https://github.com/Xandetds/java-completo-udemy)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</p>
-
-Curso aprofundado de Java, com projetos cobrindo desde fundamentos e POO até desenvolvimento avançado. Inclui **JavaFX** para GUIs, **JDBC** para integração com bancos, **APIs com Spring Boot**, **Hibernate/JPA**, uso de **Maven**, **JSON**, **Postman** e muito mais.
+Estudos de **ML em inglês**: anotações do livro, **labs** (curtos ou multi-semana) e implementações **do zero** com comparação às bibliotecas.
 
 ---
 
-### [Imersão Dados com Python - Alura](https://github.com/Xandetds/dados-python-alura)
-
+### [Imersão Dados com Python — Alura](https://github.com/Xandetds/dados-python-alura)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Plotly-23395B?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
-
-Projeto final da Imersão Alura, com criação de um **dashboard interativo** no Streamlit utilizando dados reais. Foco em exploração de dados, visualizações e storytelling com gráficos.
+Dashboard no **Streamlit** com **Plotly** e **Pandas**. Exploração de dados e visualizações interativas.
 
 ---
 
-### [Sistema de Streaming - Projeto de Banco de Dados](https://github.com/Xandetds/Projeto-BD)
-
+### [Sistema de Streaming — Projeto de Banco de Dados](https://github.com/Xandetds/Projeto-BD)
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
-
-Simulação de sistema de banco de dados com foco em **modelagem e aplicação prática** usando **PostgreSQL**. Back-end com **Flask** e front básico em **HTML/CSS**, incluindo tabelas, triggers e índices.
-
----
-
-### [Repositório de Estudos e Prática - estudos-dev](https://github.com/Xandetds/estudos-dev)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</p>
-
-Repositório voltado para aprendizado contínuo, com desafios em **Python, JavaScript e Java**, lógica de programação, anotações e exercícios de cursos.
+Modelagem e prática com **PostgreSQL** (tabelas, triggers, índices) + backend **Flask** e front simples em HTML/CSS.
+.
 
 
 ---

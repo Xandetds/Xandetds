@@ -88,17 +88,19 @@ Faço isso para **praticar inglês técnico** e ir além do uso de biblioteca.
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
+
 Repositório de prática diária: **Algoritmos**, **Backend Java/Spring** e **Angular/TypeScript**. Estrutura simples, focada em evolução constante.
 
 ---
 
-### [Machine Learning — Notes, Labs & From-Scratch (EN)](https://github.com/Xandetds/machine-learning-introduction)
+### [Machine Learning — (EN)](https://github.com/Xandetds/machine-learning-introduction)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
+
 Estudos de **ML em inglês**: anotações do livro, **labs** (curtos ou multi-semana) e implementações **do zero** com comparação às bibliotecas.
 
 ---
@@ -110,7 +112,19 @@ Estudos de **ML em inglês**: anotações do livro, **labs** (curtos ou multi-se
   <img src="https://img.shields.io/badge/Plotly-23395B?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
+
 Dashboard no **Streamlit** com **Plotly** e **Pandas**. Exploração de dados e visualizações interativas.
+
+---
+
+### [Imersão Agentes de IA — Alura](https://github.com/Xandetds/agentes-IA-alura)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab">
+</p>
+
+Agente que faz a **triagem** de pedidos e decide entre **responder com RAG**, **pedir informações** ou **abrir ticket**.
 
 ---
 
@@ -120,9 +134,8 @@ Dashboard no **Streamlit** com **Plotly** e **Pandas**. Exploração de dados e 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
-Modelagem e prática com **PostgreSQL** (tabelas, triggers, índices) + backend **Flask** e front simples em HTML/CSS.
-.
 
+Modelagem e prática com **PostgreSQL** (tabelas, triggers, índices) + backend **Flask** e front simples em HTML/CSS.
 
 ---
 
@@ -133,6 +146,8 @@ Modelagem e prática com **PostgreSQL** (tabelas, triggers, índices) + backend 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tibes-2a79692b5/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandretibes_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alexandretibes9@gmail.com)
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="Rodapé do Perfil" style="width:100%; max-width:800px; border-radius: 8px;">

@@ -69,43 +69,43 @@ Atualmente, foco em consolidar minha base técnica através de estudos teóricos
 ## 🚀 Projetos em Destaque
 
 ### [Anotações de Estudos](https://github.com/Xandetds/estudos-notes)
-🧭 Repositório que reúne **anotações técnicas e conceituais** das disciplinas da graduação e estudos complementares.  
+Repositório que reúne **anotações técnicas e conceituais** das disciplinas da graduação e estudos complementares.  
 Mais do que um caderno de aula, ele funciona como uma **base de conhecimento pessoal**, com resumos, fórmulas, experimentos e links diretos para projetos práticos correspondentes.  
 Organizado em **Markdown** e exportado das minhas anotações do Notion, mostra o meu processo de aprendizado e evolução contínua.
 
 ---
 
 ### [estudos-dev](https://github.com/Xandetds/estudos-dev)
-📘 Repositório principal de prática: **algoritmos**, **backend (Java/Spring)** e **frontend (Angular/TypeScript)**.  
+Repositório principal de prática: **algoritmos**, **backend (Java/Spring)** e **frontend (Angular/TypeScript)**.  
 Serve como um diário de aprendizado e consolidação técnica.  
  
 
 ---
 
 ### [Arquitetura de Software — API E-commerce](https://github.com/Xandetds/Arquitetura-de-software)
-📌 Projeto acadêmico em **NestJS + Redis**, com foco em **escalabilidade** e **resiliência**.  
+Projeto acadêmico em **NestJS + Redis**, com foco em **escalabilidade** e **resiliência**.  
 Inclui testes de carga com **Artillery** e simulações de alto volume de requisições.  
 
 ---
 
 ### [Machine Learning Labs (EN)](https://github.com/Xandetds/machine-learning-labs)
-📌 Estudos de **Machine Learning** em inglês, com **labs práticos** e **implementações do zero**.  
+Estudos de **Machine Learning** em inglês, com **labs práticos** e **implementações do zero**.  
 Baseado no livro *Introduction to Machine Learning with Python* (Müller & Guido).  
 
 ---
 
 ### [Java Completo (Udemy)](https://github.com/Xandetds/java-completo-udemy)
-📌 Exercícios e projetos do curso **Java Completo**, cobrindo POO, Herança, Interfaces, Polimorfismo, JPA e mais.  
+Exercícios e projetos do curso **Java Completo**, cobrindo POO, Herança, Interfaces, Polimorfismo, JPA e mais.  
 
 ---
 
 ### [Dados com Python — Alura](https://github.com/Xandetds/dados-python-alura)
-📊 Dashboard interativo em **Streamlit + Plotly + Pandas** para análise exploratória de dados.  
+Dashboard interativo em **Streamlit + Plotly + Pandas** para análise exploratória de dados.  
 
 ---
 
 ### [Agentes de IA — Alura](https://github.com/Xandetds/agentes-IA-alura)
-🤖 Agente em Python capaz de **decidir entre responder com RAG**, **pedir informações adicionais** ou **abrir tickets automaticamente**.  
+Agente em Python capaz de **decidir entre responder com RAG**, **pedir informações adicionais** ou **abrir tickets automaticamente**.  
 
 ---
 

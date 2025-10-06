@@ -5,30 +5,32 @@
 </div>
 
 <h3>🎯 Estudante de Engenharia de Software</h3>
-<h3>💻 Java (Spring) | NestJS | TypeScript | Python | PostgreSQL | JavaScript | Inglês Avançado</h3>
+<h3>💻 Java (Spring) | TypeScript | NestJS | Python | PostgreSQL | JavaScript | Inglês Avançado</h3>
 
 ---
 
 ## 👾 Sobre Mim
 
 Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e por resolver problemas com código.  
-Atualmente exploro diferentes áreas, combinando aprendizado acadêmico e prática em projetos:
+Atualmente, foco em consolidar minha base técnica através de estudos teóricos e práticos, combinando **disciplinas da graduação** e **projetos próprios**.
 
+Áreas de interesse e estudo contínuo:
 - **Algoritmos e Estruturas de Dados**  
-- **Backend (Java/Spring e NestJS)**  
-- **Frontend (TypeScript/Angular e React.JS)**  
-- **Machine Learning em Python (labs em inglês)**  
+- **Backend com Java (Spring Boot) e NestJS**  
+- **Frontend com TypeScript e Angular**  
+- **Machine Learning aplicado em Python**  
+- **Arquitetura de Software e sistemas escaláveis**
 
 ---
 
 ## 📚 Habilidades
 
 - **Linguagens:** Java, TypeScript, JavaScript, Python  
-- **Backend:** Java (Spring Boot), NestJS  
+- **Backend:** Java (Spring Boot), TypeScript (NestJS)  
 - **Frontend:** Angular, React, JavaScript, HTML/CSS  
-- **Banco de Dados:** PostgreSQL  
+- **Banco de Dados:** PostgreSQL, MongoDB, Firebase
 - **Dados & ML:** Pandas, NumPy, Matplotlib, Plotly, SciPy, scikit-learn, mglearn  
-- **Ferramentas:** Git, GitHub, VS Code, IntelliJ IDEA, Jupyter  
+- **Ferramentas:** GitHub, VS Code, IntelliJ IDEA, Jupyter, Postman  
 - **Idiomas:** Inglês avançado  
 
 ---
@@ -38,7 +40,7 @@ Atualmente exploro diferentes áreas, combinando aprendizado acadêmico e práti
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,ts,angular,react,postgres,github,nestjs" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,ts,angular,react,postgres,mongodb,firebase,github,nestjs" alt="Skills" />
 </a>
 
 <br/><br/>
@@ -66,40 +68,48 @@ Atualmente exploro diferentes áreas, combinando aprendizado acadêmico e práti
 
 ## 🚀 Projetos em Destaque
 
+### [Anotações de Estudos](https://github.com/Xandetds/estudos-notes)
+🧭 Repositório que reúne **anotações técnicas e conceituais** das disciplinas da graduação e estudos complementares.  
+Mais do que um caderno de aula, ele funciona como uma **base de conhecimento pessoal**, com resumos, fórmulas, experimentos e links diretos para projetos práticos correspondentes.  
+Organizado em **Markdown** e exportado das minhas anotações do Notion, mostra o meu processo de aprendizado e evolução contínua.
+
+---
+
 ### [estudos-dev](https://github.com/Xandetds/estudos-dev)
-📌 Repositório principal de prática: **algoritmos**, **backend (Java/Spring e NestJS)** e **frontend (Angular/TypeScript — em andamento)**.  
-Organizado por trilha, serve como diário de evolução contínua.  
+📘 Repositório principal de prática: **algoritmos**, **backend (Java/Spring)** e **frontend (Angular/TypeScript)**.  
+Serve como um diário de aprendizado e consolidação técnica.  
+ 
 
 ---
 
 ### [Arquitetura de Software — API E-commerce](https://github.com/Xandetds/Arquitetura-de-software)
 📌 Projeto acadêmico em **NestJS + Redis**, com foco em **escalabilidade** e **resiliência**.  
-Inclui testes de carga com **Artillery** e simulação de cenários de alta demanda.  
+Inclui testes de carga com **Artillery** e simulações de alto volume de requisições.  
+
+---
+
+### [Machine Learning Labs (EN)](https://github.com/Xandetds/machine-learning-labs)
+📌 Estudos de **Machine Learning** em inglês, com **labs práticos** e **implementações do zero**.  
+Baseado no livro *Introduction to Machine Learning with Python* (Müller & Guido).  
 
 ---
 
 ### [Java Completo (Udemy)](https://github.com/Xandetds/java-completo-udemy)
-📌 Exercícios e projetos do curso **Java Completo**.  
-Abrange POO, JavaFX, JDBC, Postman, STS, REST, Maven, SQLite, JSON, Hibernate, JPA.  
-
----
-
-### [Machine Learning — (EN)](https://github.com/Xandetds/machine-learning-introduction)
-📌 Estudos de ML em inglês: anotações do livro *Introduction to Machine Learning with Python*, labs e implementações do zero.  
+📌 Exercícios e projetos do curso **Java Completo**, cobrindo POO, Herança, Interfaces, Polimorfismo, JPA e mais.  
 
 ---
 
 ### [Dados com Python — Alura](https://github.com/Xandetds/dados-python-alura)
-📌 Dashboard em **Streamlit + Plotly + Pandas** para análise exploratória interativa.  
+📊 Dashboard interativo em **Streamlit + Plotly + Pandas** para análise exploratória de dados.  
 
 ---
 
 ### [Agentes de IA — Alura](https://github.com/Xandetds/agentes-IA-alura)
-📌 Agente em Python que decide entre **responder com RAG**, **pedir info extra** ou **abrir ticket**.  
+🤖 Agente em Python capaz de **decidir entre responder com RAG**, **pedir informações adicionais** ou **abrir tickets automaticamente**.  
 
 ---
 
-## 📬 Conecte-se Comigo
+## 📬 Contato
 
 <div align="center">
 

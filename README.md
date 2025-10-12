@@ -68,7 +68,7 @@ Atualmente, foco em consolidar minha base técnica através de estudos teóricos
 
 ## 🚀 Projetos em Destaque
 
-### [Anotações de Estudos](https://github.com/Xandetds/estudos-notes)
+### [Anotações de Estudos](https://github.com/Xandetds/Anotacoes-EngSoftware)
 Repositório que reúne **anotações técnicas e conceituais** das disciplinas da graduação e estudos complementares.  
 Mais do que um caderno de aula, ele funciona como uma **base de conhecimento pessoal**, com resumos, fórmulas, experimentos e links diretos para projetos práticos correspondentes.  
 Organizado em **Markdown** e exportado das minhas anotações do Notion, mostra o meu processo de aprendizado e evolução contínua.

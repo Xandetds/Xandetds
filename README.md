@@ -68,6 +68,14 @@ Atualmente, foco em consolidar minha base técnica através de estudos teóricos
 
 ## 🚀 Projetos em Destaque
 
+### [Previsão de Receita Pública — Machine Learning](https://github.com/Xandetds/ml-receita-publica)
+Projeto aplicado à gestão pública para prever meses de baixa arrecadação usando séries temporais e classificação de risco.  
+Modelo Random Forest alcançou **Recall de 100%** nas quedas reais do período validado.  
+Inclui ETL, EDA, modelagem, validação temporal e relatório técnico.
+
+---
+
+
 ### [Anotações de Estudos](https://github.com/Xandetds/Anotacoes-EngSoftware)
 Repositório que reúne **anotações técnicas e conceituais** das disciplinas da graduação e estudos complementares.  
 Mais do que um caderno de aula, ele funciona como uma **base de conhecimento pessoal**, com resumos, fórmulas, experimentos e links diretos para projetos práticos correspondentes.  

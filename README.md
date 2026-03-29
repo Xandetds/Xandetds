@@ -40,7 +40,7 @@ Atualmente, foco em consolidar minha base técnica através de estudos teóricos
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,ts,angular,react,postgres,mongodb,firebase,github,nestjs" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,ts,go,angular,react,postgres,mongodb,firebase,github,nestjs" alt="Skills" />
 </a>
 
 <br/><br/>

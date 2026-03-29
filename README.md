@@ -60,11 +60,9 @@ Atualmente, foco em consolidar minha base técnica através de estudos teóricos
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs&" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Langs" height="180"/>
-</div>
-
----
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Langs" height="180"/>
+</div>---
 
 ## 🚀 Projetos em Destaque
 

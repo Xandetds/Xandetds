@@ -1,129 +1,117 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="Banner do Perfil" style="width:100%; max-width:800px; border-radius: 8px;">
-  <br>
-  <h1>Olá! Eu sou o Alexandre Tibes 👓​</h1>
-</div>
+<h1 align="center">Alexandre Tibes</h1>
 
-<h3>🎯 Estudante de Engenharia de Software</h3>
-<h3>💻 Java (Spring) | TypeScript | NestJS | Python | PostgreSQL | JavaScript | Inglês Avançado</h3>
-
----
-
-## 👾 Sobre Mim
-
-Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e por resolver problemas com código.  
-Atualmente, foco em consolidar minha base técnica através de estudos teóricos e práticos, combinando **disciplinas da graduação** e **projetos próprios**.
-
-Áreas de interesse e estudo contínuo:
-- **Algoritmos e Estruturas de Dados**  
-- **Backend com Java (Spring Boot) e NestJS**  
-- **Frontend com TypeScript e Angular**  
-- **Machine Learning aplicado em Python**  
-- **Arquitetura de Software e sistemas escaláveis**
+<p align="center">
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-black?style=for-the-badge&logoColor=white" alt="Fullstack" />
+  <img src="https://img.shields.io/badge/FOCUS-STUDYING-black?style=for-the-badge&logoColor=white" alt="Studying" />
+  <img src="https://img.shields.io/badge/LOC-SANTA_CATARINA-black?style=for-the-badge&logoColor=white" alt="Localização" />
+</p>
 
 ---
 
-## 📚 Habilidades
+<h2 style="border-bottom: none; padding-bottom: 0; text-align: center;">Sobre mim</h2>
 
-- **Linguagens:** Java, TypeScript, JavaScript, Python  
-- **Backend:** Java (Spring Boot), TypeScript (NestJS)  
-- **Frontend:** Angular, React, JavaScript, HTML/CSS  
-- **Banco de Dados:** PostgreSQL, MongoDB, Firebase
-- **Dados & ML:** Pandas, NumPy, Matplotlib, Plotly, SciPy, scikit-learn, mglearn  
-- **Ferramentas:** GitHub, VS Code, IntelliJ IDEA, Jupyter, Postman  
-- **Idiomas:** Inglês avançado  
+<p align="center">
+Estudante de Engenharia de Software focado em construir sistemas robustos e escaláveis. No dia a dia, investigo logs e resolvo incidentes complexos em sistemas de produção, o que me deu uma visão crítica sobre qualidade, resiliência e integridade de dados.
+</p>
 
----
+<p align="center"><strong>Sobre estudos e trabalho:</strong> Gosto de me esforçar, aprender coisas novas e mostrar serviço. Faço questão de entender o que estou construindo, sem pular etapas. Uso ferramentas de IA como o Claude Code a meu favor: elas entram para automatizar o trabalho repetitivo, não para fazer o meu papel. A minha ideia é usar a tecnologia para acelerar o desenvolvimento sem virar dependente dela, mantendo o controle sobre o código.</p>
 
-## ⚙️ Tecnologias e Ferramentas
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,ts,go,angular,react,postgres,mongodb,firebase,github,nestjs" alt="Skills" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Plotly-23395B?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-
-</div>
+<div style="clear: both;"></div>
 
 ---
 
-## 📈 GitHub Stats
+<h2 style="border-bottom: none; padding-bottom: 0; text-align: center;">Foco no momento</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Xandetds&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xandetds&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&langs_count=10&count_private=true" alt="Top Langs" height="180"/>
-</div>
-## 🚀 Projetos em Destaque
+<p align="center">
+  • <strong>Orientação a Objetos & Design Patterns:</strong> Indo além do básico para criar sistemas modulares.<br>
+  • <strong>Clean Code & Clean Architecture:</strong> Aplicando princípios de código limpo para garantir manutenibilidade.<br>
+  • <strong>Escalabilidade:</strong> Estudando como manter a performance em sistemas com alto volume de dados.
+</p>
 
-### [Previsão de Receita Pública — Machine Learning](https://github.com/Xandetds/ml-receita-publica)
-Projeto aplicado à gestão pública para prever meses de baixa arrecadação usando séries temporais e classificação de risco.  
-Modelo Random Forest alcançou **Recall de 100%** nas quedas reais do período validado.  
-Inclui ETL, EDA, modelagem, validação temporal e relatório técnico.
+<br>
 
----
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xandetds&theme=react-dark&bg_color=0D1117&color=47ff72&line=47ff72&point=47ff72&hide_border=true" alt="Alexandre Tibes's Contribution Graph" />
+  </a>
+</p>
 
-
-### [Anotações de Estudos](https://github.com/Xandetds/Anotacoes-EngSoftware)
-Repositório que reúne **anotações técnicas e conceituais** das disciplinas da graduação e estudos complementares.  
-Mais do que um caderno de aula, ele funciona como uma **base de conhecimento pessoal**, com resumos, fórmulas, experimentos e links diretos para projetos práticos correspondentes.  
-Organizado em **Markdown** e exportado das minhas anotações do Notion, mostra o meu processo de aprendizado e evolução contínua.
+<div style="clear: both;"></div>
 
 ---
 
-### [estudos-dev](https://github.com/Xandetds/estudos-dev)
-Repositório principal de prática: **algoritmos**, **backend (Java/Spring)** e **frontend (Angular/TypeScript)**.  
-Serve como um diário de aprendizado e consolidação técnica.  
- 
+<h2 style="border-bottom: none; padding-bottom: 0; text-align: center;">Projetos em destaque</h2>
 
----
+<p align="center">
+  <a href="https://github.com/Xandetds/Contabilidade-publica-backend"><img src="https://img.shields.io/badge/API%20Contabilidade%20Pública-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="API Contabilidade Pública" /></a>
+</p>
+<p align="center">Desenvolvimento de uma API para emular o back-end de um sistema contábil público, simulando fluxos complexos de negócio como empenhos, liquidações e pagamentos.</p>
 
-### [Arquitetura de Software — API E-commerce](https://github.com/Xandetds/Arquitetura-de-software)
-Projeto acadêmico em **NestJS + Redis**, com foco em **escalabilidade** e **resiliência**.  
-Inclui testes de carga com **Artillery** e simulações de alto volume de requisições.  
+<p align="center">
+  <a href="https://github.com/Xandetds/TCE-cloud"><img src="https://img.shields.io/badge/Auditoria%20TCE--Cloud%20(Python)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="TCE Cloud" /></a>
+</p>
+<p align="center">Ferramenta em <code>Python (Pandas)</code> com interface gráfica <code>CustomTkinter</code> para homologação pós-migração. Compara relatórios CSV extraídos do sistema Betha Cloud com o padrão do TCE-SC para validação de integridade de contas contábeis.</p>
 
----
+<p align="center">
+  <a href="https://github.com/Xandetds/Arquitetura-de-software"><img src="https://img.shields.io/badge/API%20E--commerce%20(Arquitetura)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="API E-commerce" /></a>
+</p>
+<p align="center">Projeto prático desenvolvido em <code>NestJS</code> focado em escalabilidade. Implementação de testes de carga, simulações de requisições em massa, cache em memória com <code>Redis</code> e experimentações com <code>MongoDB</code> distribuído.</p>
 
-### [Machine Learning Labs (EN)](https://github.com/Xandetds/machine-learning-labs)
-Estudos de **Machine Learning** em inglês, com **labs práticos** e **implementações do zero**.  
-Baseado no livro *Introduction to Machine Learning with Python* (Müller & Guido).  
+<p align="center">
+  <a href="https://github.com/Xandetds/ml-receita-publica"><img src="https://img.shields.io/badge/Previsão%20de%20Receita%20(ML)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Machine Learning" /></a>
+</p>
+<p align="center">Aplicação de Machine Learning (Random Forest) com <code>Python</code> para prever meses de baixa arrecadação na gestão pública, alcançando 100% de recall. Inclui pipeline de ETL, EDA e validação temporal.</p>
 
----
+<p align="center">
+  <a href="https://github.com/Thiago757/GoldWare"><img src="https://img.shields.io/badge/GoldWare%20(ERP%20Joalherias)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="GoldWare" /></a>
+</p>
+<p align="center">Back-end em <code>Node.js</code> com arquitetura em camadas para atender um cliente real. Gerenciamento de estoque e pagamentos via API REST, integrado a front-end React e banco PostgreSQL.</p>
 
-### [Java Completo (Udemy)](https://github.com/Xandetds/java-completo-udemy)
-Exercícios e projetos do curso **Java Completo**, cobrindo POO, Herança, Interfaces, Polimorfismo, JPA e mais.  
-
----
-
-### [Dados com Python — Alura](https://github.com/Xandetds/dados-python-alura)
-Dashboard interativo em **Streamlit + Plotly + Pandas** para análise exploratória de dados.  
-
----
-
-### [Agentes de IA — Alura](https://github.com/Xandetds/agentes-IA-alura)
-Agente em Python capaz de **decidir entre responder com RAG**, **pedir informações adicionais** ou **abrir tickets automaticamente**.  
-
----
-
-## 📬 Contato
+<br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tibes-2a79692b5/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandretibes_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alexandretibes9@gmail.com)
-
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xandetds&theme=dark" alt="Top Languages" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xandetds&theme=dark" alt="Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="Rodapé do Perfil" style="width:100%; max-width:800px; border-radius: 8px;">
-</div>
+---
+
+<h2 style="border-bottom: none; padding-bottom: 0; text-align: center;">Stack e ferramentas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=Go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=python&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+--- 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<p align="center">
+  <a href="http://linkedin.com/in/alexandre-tibes" style="display: inline-block; padding: 0 15px;">
+    <img src="assets/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; filter: invert(1);" />
+  </a>
+  <a href="https://github.com/Xandetds" style="display: inline-block; padding: 0 15px;">
+    <img src="assets/github.svg" alt="GitHub" width="24" height="24" style="vertical-align: middle; filter: invert(1);" />
+  </a>
+  <a href="https://www.instagram.com/alexandretibes_/" style="display: inline-block; padding: 0 15px;">
+    <img src="assets/instagram.svg" alt="Instagram" width="24" height="24" style="vertical-align: middle; filter: invert(1);" />
+  </a>
+</p>

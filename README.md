@@ -43,6 +43,11 @@ Estudante de Engenharia de Software focado em construir sistemas robustos e esca
 <h2 style="border-bottom: none; padding-bottom: 0; text-align: center;">Projetos em destaque</h2>
 
 <p align="center">
+  <a href="https://github.com/Xandetds/ml-receita-publica"><img src="https://img.shields.io/badge/Previsão%20de%20Receita%20(ML)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Machine Learning" /></a>
+</p>
+<p align="center">Aplicação de Machine Learning (Random Forest) com <code>Python</code> para prever meses de baixa arrecadação na gestão pública, alcançando 100% de recall. Inclui pipeline de ETL, EDA e validação temporal.</p>
+
+<p align="center">
   <a href="https://github.com/Xandetds/Contabilidade-publica-backend"><img src="https://img.shields.io/badge/API%20Contabilidade%20Pública-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="API Contabilidade Pública" /></a>
 </p>
 <p align="center">Desenvolvimento de uma API para emular o back-end de um sistema contábil público, simulando fluxos complexos de negócio como empenhos, liquidações e pagamentos.</p>
@@ -58,11 +63,6 @@ Estudante de Engenharia de Software focado em construir sistemas robustos e esca
 <p align="center">Projeto prático desenvolvido em <code>NestJS</code> focado em escalabilidade. Implementação de testes de carga, simulações de requisições em massa, cache em memória com <code>Redis</code> e experimentações com <code>MongoDB</code> distribuído.</p>
 
 <p align="center">
-  <a href="https://github.com/Xandetds/ml-receita-publica"><img src="https://img.shields.io/badge/Previsão%20de%20Receita%20(ML)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Machine Learning" /></a>
-</p>
-<p align="center">Aplicação de Machine Learning (Random Forest) com <code>Python</code> para prever meses de baixa arrecadação na gestão pública, alcançando 100% de recall. Inclui pipeline de ETL, EDA e validação temporal.</p>
-
-<p align="center">
   <a href="https://github.com/Thiago757/GoldWare"><img src="https://img.shields.io/badge/GoldWare%20(ERP%20Joalherias)-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="GoldWare" /></a>
 </p>
 <p align="center">Back-end em <code>Node.js</code> com arquitetura em camadas para atender um cliente real. Gerenciamento de estoque e pagamentos via API REST, integrado a front-end React e banco PostgreSQL.</p>
@@ -70,16 +70,8 @@ Estudante de Engenharia de Software focado em construir sistemas robustos e esca
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xandetds&theme=dark" alt="Top Languages" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xandetds&theme=dark" alt="Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Xandetds&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="200"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xandetds&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&hide=Jupyter%20Notebook&langs_count=8&count_private=true&hide_border=true" alt="Top Languages" height="200"/>
 </div>
 
 ---
@@ -90,8 +82,8 @@ Estudante de Engenharia de Software focado em construir sistemas robustos e esca
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=Go&logoColor=white" alt="Golang" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=python&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />

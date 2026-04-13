@@ -70,8 +70,16 @@ Estudante de Engenharia de Software focado em construir sistemas robustos e esca
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Xandetds&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="200"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xandetds&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&hide=Jupyter%20Notebook&langs_count=8&count_private=true&hide_border=true" alt="Top Languages" height="200"/>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Xandetds&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="190"/>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xandetds&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&hide=Jupyter%20Notebook&langs_count=8&count_private=true&hide_border=true" alt="Top Languages" height="190"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
